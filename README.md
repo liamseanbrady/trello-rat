@@ -3,9 +3,10 @@
 - Run `bundle`
 
 - Add a `.config` file in the root directory. This is a YAML file and must contain `key` and `app_name` keys.
-
+    ```
     key: 'yourtrellodeveloperkeyhere'
     app_name: 'Trello Rat'
+    ```
 
 ### The Purpose of this Project
 
